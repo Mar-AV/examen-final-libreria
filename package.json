@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node app.js"
   },
-  "author": "Tu Nombre",
+  "author": "Marlon Aguilar",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
