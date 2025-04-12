@@ -36,5 +36,5 @@ Los libros se almacenan en un archivo `catalogo.json`, el cual se actualiza cada
 2. Instala las dependencias:
 
    
-------Ejecute el siguiente comando en la consola para poder utilizarlo----///node src/app.js////----------
+------Ejecute el siguiente comando en la consola para poder utilizarlo----///node app.js////----------
 
