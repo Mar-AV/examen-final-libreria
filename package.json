@@ -1,0 +1,16 @@
+{
+  "name": "inventario-libreria",
+  "version": "1.0.0",
+  "description": "Sistema de inventario de libros para El Rincón del Saber",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Tu Nombre",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "readline-sync": "^1.4.10"
+  }
+}
+
